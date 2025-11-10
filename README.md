@@ -1,0 +1,1 @@
+I decided that I would start building my capstone project or at least an idea I had for my capstone project. This will be a Family Recipe book that has sections for all of our family recipes and a searchable datbase of those recipes. I am considering how to integrate a Custom GPT model "Sous Chef GPT" to act as a tool for users. 
